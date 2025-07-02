@@ -15,7 +15,7 @@ from oops_proj import chatbook
 user1 = chatbook()
 print(user1.id)
 
-chatbook.set_id(10)
+chatbook.set_id(10) #using staticmethod, we use class rather than object
 
 user2 = chatbook()
 print(user2.id)
