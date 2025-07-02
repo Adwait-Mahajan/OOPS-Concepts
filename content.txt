@@ -1,0 +1,6 @@
+1. Class and Objects
+
+2. Class has data/attribute and it has functions/ methods
+
+3. Why Python is called OOP?
+    -> 
