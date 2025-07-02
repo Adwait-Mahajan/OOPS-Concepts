@@ -14,8 +14,8 @@ class Employee:
 
 # Creating an Object/ Instance of the class
 sam = Employee()
+sam.name = "Sam Kumar"
 
 # print(sam.id,sam.salary,sam.designation, "\n")
 sam.travel("New York")
-
-print(type(sam))
+print(sam.name)
