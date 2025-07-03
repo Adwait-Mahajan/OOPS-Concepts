@@ -29,7 +29,7 @@
     -> Inheritence
         • Code reusability, parent has no access to child class
         • What gets onherited? > Constructor, Non Private Attributes, Non private methods
-        • Constructor Overloading & method Overloading
+        • Constructor Overloading & method Overloading  
         • Super Keyword(can be used only inside class, can not access variables/ attributes, used only inside child class)
 
     -> Types of Inheritence

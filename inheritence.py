@@ -39,7 +39,7 @@ class Dog(Animal):
         self.breed = breed
 
     def speak(self):
-        super().speak() #call the parent class method
+        super().speak() #call the Parent class method
         print(f"{self.name} barks. It is a {self.breed}")
 
 dog = Dog("Golden Retriever")
